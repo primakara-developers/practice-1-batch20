@@ -1,0 +1,14 @@
+:root {
+  --dark-blue: hsl(233, 26%, 24%);
+  --lime-green : hsl(136, 65%, 51%);
+  --darker-lime-green: hsl(136, 79%, 38%);
+  --bright-cyan : rgb(43, 183, 218);
+  --darker-bright-cyan: hsl(192, 77%, 40%);
+  --gray-blue: hsl(233, 8%, 62%);
+  --light-gray-blue: hsl(220, 16%, 96%);
+  --very-light-gray: hsl(0, 0%, 98%);
+}
+
+html {
+  font-family: "Public Sans", sans-serif;
+}
